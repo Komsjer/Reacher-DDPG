@@ -25,7 +25,7 @@ A reward of ~+0.04 is provided for each step the agent is in the target sphere.
 For the dependancies to this project please follow the instructions from the assignment github [here](https://github.com/udacity/deep-reinforcement-learning#dependencies)
 
 ##### 2.
-To install the unity enviroment you'll need to download the right version for your pc drag it into the project folder and unzip it, not that you'll need to edit the path in the notebook.
+To install the unity environment you'll need to download the right version for your pc drag it into the project folder and unzip it, aswell as edit the path in the notebook.
 
 Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher_Linux.zip)
 Mac OSX: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher.app.zip)
