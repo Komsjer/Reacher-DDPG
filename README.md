@@ -1,5 +1,5 @@
 # REACHER DDPG 
-This project is an assignment from the Udacity Deep Reinforcement Learning course. [p2_continuous-control] found here. The objective is to train the Unity reacher agent to keep its arm in a rotating target.
+This project is an assignment from the Udacity Deep Reinforcement Learning course. [p2_continuous-control](https://github.com/udacity/deep-reinforcement-learning/tree/master/p2_continuous-control) found [here](https://github.com/udacity/deep-reinforcement-learning#dependencies). The objective is to train the Unity reacher agent to keep its arm in a rotating target.
 
 
 ## Enviroment
